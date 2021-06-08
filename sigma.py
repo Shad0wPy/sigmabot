@@ -6,7 +6,7 @@ from discord.utils import get
 sigma = commands.Bot(command_prefix='*', help_command=None)
 warnings = {}
 
-token = "ODMzMDA3MjgwMzA3MTc1NDc1.YHsEfA.YkXNbo69EhvB50wuH8dJxQnFWSE"
+token = "TOKEN_BOT"
 
 #Permet de mettre un statut au bot ^^
 @sigma.event
